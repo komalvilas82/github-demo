@@ -1,2 +1,2 @@
-module javagitdemo {
+module javaGitDemo {
 }
